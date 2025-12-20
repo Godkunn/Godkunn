@@ -1,20 +1,22 @@
 <div align="center">
 
-# ⚡ 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐆𝐨𝐝𝐊𝐮𝐧! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# ⚡ 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐀𝐲𝐮𝐬𝐡 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲 (𝐆𝐨𝐝𝐊𝐮𝐧)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### 👨‍💻 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐨𝐟 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 | 𝐄𝐄 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 @ 𝐍𝐈𝐓 𝐀𝐠𝐚𝐫𝐭𝐚𝐥𝐚
 *Building the future with AI, APIs, and High-Performance Code.*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=GodKun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Leveling%20Up%20Every%20Day&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=Ayush%20(GodKun)&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Leveling%20Up%20Every%20Day&descAlignY=55&descAlign=50" />
 
 </div>
 
 ### 🧐 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 - 🎓 I’m a **3rd Sem Electrical Engineering** student at **NIT Agartala**.
-- 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)**.
+- 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** & **Celestial Event Weaver**.
 - 🧠 Deeply interested in **Generative AI (DeepSeek, OpenRouter)** and **Digital Logic**.
+- ⛩️ Member of the **Animystic** Anime Club. *Favs: Solo Leveling, JJK*.
+- ⚡ **Fun Fact:** I get motion sickness in cars, but I have zero limits in the terminal.
 
 ---
 
@@ -45,6 +47,7 @@
 ### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-chaudharyy)] [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:AYUSH_24UEE054@ug.nita.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-chaudharyy)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:AYUSH_24UEE054@ug.nita.ac.in)
 
 </div>
