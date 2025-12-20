@@ -13,10 +13,8 @@
 
 ### 🧐 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 - 🎓 I’m a **3rd Sem Electrical Engineering** student at **NIT Agartala**.
-- 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** & **Celestial Event Weaver**.
+- 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)**.
 - 🧠 Deeply interested in **Generative AI (DeepSeek, OpenRouter)** and **Digital Logic**.
-- ⛩️ Member of the **Animystic** Anime Club. *Favs: Solo Leveling, JJK*.
-- ⚡ **Fun Fact:** I get motion sickness in cars, but I have zero limits in the terminal.
 
 ---
 
