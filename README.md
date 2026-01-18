@@ -1,6 +1,7 @@
 <div align="center">
 
 # ⚡ 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐀𝐲𝐮𝐬𝐡 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲 (𝐆𝐨𝐝𝐊𝐮𝐧)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<img src="https://profile-counter.glitch.me/Godkunn/count.svg" alt="visitor count" />
 
 ### 👨‍💻 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐨𝐟 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 | 𝐄𝐄 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 @ 𝐍𝐈𝐓 𝐀𝐠𝐚𝐫𝐭𝐚𝐥𝐚
 *Building the future with AI, APIs, and High-Performance Code.*
