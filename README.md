@@ -5,7 +5,9 @@
 ### 👨‍💻 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐨𝐟 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 | 𝐄𝐄 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 @ 𝐍𝐈𝐓 𝐀𝐠𝐚𝐫𝐭𝐚𝐥𝐚
 *Building the future with AI, APIs, and High-Performance Code.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=System%20Online&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Initializing...&descAlignY=55&descAlign=50" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=180&section=header&text=System%20Online&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Initializing...&descAlignY=55&descAlign=50" />
 
 </div>
 
