@@ -1,35 +1,53 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Cyberpunk Server" />
+<img src="https://i.pinimg.com/originals/2b/6e/73/2b6e737199464b97d26b484501255e20.gif" width="100%" style="border-radius: 10px;" alt="Jarvis HUD" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=System+Initialized...;User:+GodKun+(Ayush);Class:+System+Architect;Mission:+Build+the+Future" alt="Typing SVG" />
-</a>
+<h1 align="center">⚡ 𝐀𝐲𝐮𝐬𝐡 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲 (𝐆𝐨𝐝𝐊𝐮𝐧)</h1>
 
 <img src="https://komarev.com/ghpvc/?username=Godkunn&style=flat-square&color=00f2ff" alt="visitor count" />
 
+<br/>
+
+### 👨‍💻 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐨𝐟 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 | 𝐄𝐄 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 @ 𝐍𝐈𝐓 𝐀𝐠𝐚𝐫𝐭𝐚𝐥𝐚
+*Building intelligent systems with Generative AI, Data Science, and High-Performance APIs.*
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-### 🔮 𝐌𝐢𝐬𝐬𝐢𝐨𝐧 𝐋𝐨𝐠
-- 🎓 **Identity:** Electrical Engineering Undergrad @ **NIT Agartala**
-- 🔭 **Current Objective:** Hardening **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)**
-- 🧠 **Neural Link:** Deep interest in **Generative AI**, **Digital Logic**, and **System Architecture**
-- ⚡ **Fun Fact:** I design systems like I'm building ships for the Grand Line.
+### 🧠 𝐍𝐞𝐮𝐫𝐚𝐥 𝐋𝐢𝐧𝐤 (𝐀𝐛𝐨𝐮𝐭 𝐌𝐞)
+- 🎓 **Core Identity:** Electrical Engineering Student at **NIT Agartala**
+- 🔭 **Active Protocol:** Hardening **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** & Scaling **CampusFix**
+- 🔮 **Research Focus:** **Generative AI**, **Computer Vision**, and **System Architecture**
+- ⚡ **Directive:** I design systems that think, learn, and evolve.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ### 🛠️ 𝐓𝐞𝐜𝐡 𝐀𝐫𝐬𝐞𝐧𝐚𝐥
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,fastapi,react,postgres,tensorflow,opencv,supabase,git,linux,postman&theme=dark&perline=7" />
-  </a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,fastapi,react,postgres,git,linux,postman,docker&theme=dark&perline=12" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,mysql&theme=dark&perline=7" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Science-00599C?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-### 📊 𝐁𝐚𝐭𝐭𝐥𝐞 𝐒𝐭𝐚𝐭𝐬
+### 📊 𝐒𝐲𝐬𝐭𝐞𝐦 𝐌𝐞𝐭𝐫𝐢𝐜𝐬
 <div align="center">
   <img src="https://godkun-stats-server.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars" height="150" alt="stats graph" />
   
@@ -40,7 +58,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godkunn&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ### 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
@@ -50,20 +68,11 @@
 | **🏙️ CampusFix** | Full-stack platform for managing campus issues. | `React` `FastAPI` `PostgreSQL` |
 | **🌊 Ocean-Watch** | Ocean hazard reporting platform (SIH Project). | `HTML/CSS` `JS` |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-### 👾 𝐏𝐥𝐚𝐲𝐞𝐫 𝐒𝐭𝐚𝐭𝐮𝐬 (The Missing Footer)
 <div align="center">
-
-| 𝐋𝐞𝐯𝐞𝐥 | 𝐇𝐏 (Coffee) | 𝐌𝐏 (Code) | 𝐗𝐏 (Commits) |
-| :---: | :---: | :---: | :---: |
-| **LVL 20** | ██████████ 100% | ██████████ 100% | ████░░░░░░ 45% |
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Ayush-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-chaudharyy)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:AYUSH_24UEE054@ug.nita.ac.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0a192f&height=100&section=footer" width="100%" />
 
 </div>
