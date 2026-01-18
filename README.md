@@ -12,7 +12,7 @@
 </div>
 
 ### 🧐 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-- 🎓 I’m a **3rd Sem Electrical Engineering** student at **NIT Agartala**.
+- 🎓 I’m a **4th Sem Electrical Engineering** student at **NIT Agartala**.
 - 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** and **CampusFix**.
 - 🧠 Deeply interested in **Generative AI**, **Digital Logic**, and **System Architecture**.
 - ⚡ Fun fact: I design systems like I'm building ships for the Grand Line.
@@ -47,9 +47,9 @@
 
 ### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <div align="center">
-  <img src="https://github-readme-stats-bgs.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" height="150" alt="stats graph" />
+  <img src="https://godkun-stats-server.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats-bgs.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" height="150" alt="languages graph" />
+  <img src="https://godkun-stats-server.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 
   <br/>
 
