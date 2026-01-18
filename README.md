@@ -76,16 +76,6 @@
 
 (See pinned repositories on my profile for README + demos.)
 
----
-
-### ✨ Tips to make this README even stronger
-- Add a 1–2 minute demo GIF for your top project (host in repo `/assets` and embed with relative path)  
-- Show a small "How to run" for NeuroScan-AI-Security (example commands) in that repo's README  
-- Add a short "Availability" line: open to internships / collaborations / mentorship requests  
-- Keep `github-readme-stats` width-based (not height) for consistent layout across devices
-
----
-
 <div align="center">
   <sub>Crafted to be sleek, readable on dark mode, and mobile-friendly. — Ayush (GodKun)</sub>
 </div>
