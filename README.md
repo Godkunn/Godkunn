@@ -7,7 +7,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=180&section=header&text=System%20Online&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Initializing...&descAlignY=55&descAlign=50" />
+<img src="https://komarev.com/ghpvc/?username=Godkunn&label=Profile%20Views&color=00f2ff&style=flat-square&v=1" alt="Profile Views" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=180&section=header&text=System%20Online&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Initializing...&descAlignY=55&descAlign=50&v=1" />
 
 </div>
 
@@ -45,13 +49,13 @@
 
 ### 📊 𝐆𝐨𝐝𝐊𝐮𝐧'𝐬 𝐌𝐞𝐭𝐫𝐢𝐜𝐬
 <div align="center">
-  <img src="https://godkun-stats-server.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&custom_title=GodKun's%20System%20Metrics" height="150" alt="stats graph" />
+  <img src="https://godkun-stats-server.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&custom_title=GodKun's%20System%20Metrics&v=1" height="150" alt="stats graph" />
   
-  <img src="https://godkun-stats-server.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://godkun-stats-server.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true&v=1" height="150" alt="languages graph" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godkunn&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godkunn&theme=tokyonight&hide_border=true&v=1" height="150" alt="streak graph" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
@@ -72,6 +76,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Ayush-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-chaudharyy)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:AYUSH_24UEE054@ug.nita.ac.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0a192f&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0a192f&height=100&section=footer&v=1" width="100%" />
 
 </div>
