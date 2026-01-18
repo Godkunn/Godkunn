@@ -1,35 +1,33 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/2b/6e/73/2b6e737199464b97d26b484501255e20.gif" width="100%" style="border-radius: 10px; margin-bottom: 15px;" alt="Jarvis HUD" />
+# ⚡ 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐀𝐲𝐮𝐬𝐡 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲 (𝐆𝐨𝐝𝐊𝐮𝐧)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<h1 align="center">⚡ 𝐒𝐲𝐬𝐭𝐞𝐦 𝐎𝐧𝐥𝐢𝐧𝐞: 𝐀𝐲𝐮𝐬𝐡 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲 (𝐆𝐨𝐝𝐊𝐮𝐧)</h1>
-<h3 align="center">👨‍💻 𝟒𝐭𝐡 𝐒𝐞𝐦 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐨𝐟 𝐒𝐲𝐬𝐭𝐞𝐦𝐬</h3>
+### 👨‍💻 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐨𝐟 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 | 𝐄𝐄 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 @ 𝐍𝐈𝐓 𝐀𝐠𝐚𝐫𝐭𝐚𝐥𝐚
+*Building the future with AI, APIs, and High-Performance Code.*
 
-<img src="https://komarev.com/ghpvc/?username=Godkunn&style=flat-square&color=00f2ff" alt="visitor count" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=System%20Online&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Initializing...&descAlignY=55&descAlign=50" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-### 🧠 𝐍𝐞𝐮𝐫𝐚𝐥 𝐋𝐢𝐧𝐤 (𝐀𝐛𝐨𝐮𝐭 𝐌𝐞) <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874018293ef16a1b026759.gif" width="30" style="vertical-align:middle" alt="holo" />
-- 🎓 **Identity:** 4th Sem Electrical Engineering Student @ **NIT Agartala**
-- 🔭 **Active Protocol:** Hardening **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** & Scaling **CampusFix**
-- 🔮 **Research Focus:** **Generative AI**, **Computer Vision**, and **System Architecture**
-- ⚡ **Directive:** I design systems that think, learn, and evolve.
+### 🧐 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+- 🎓 I’m a **4th Sem Electrical Engineering** student at **NIT Agartala**.
+- 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** and **CampusFix**.
+- 🧠 Deeply interested in **Generative AI**, **Digital Logic**, and **System Architecture**.
+- ⚡ **Fun fact:** I design systems like I'm building ships for the Grand Line.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-### 🛠️ 𝐓𝐞𝐜𝐡 𝐀𝐫𝐬𝐞𝐧𝐚𝐥 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874018293ef16a1b026759.gif" width="28" style="vertical-align:middle" alt="holo" />
+### 🛠️ 𝐓𝐞𝐜𝐡 𝐀𝐫𝐬𝐞𝐧𝐚𝐥
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,fastapi,postgres,docker,git,linux,postman&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,fastapi,react,postgres&theme=dark&perline=8" />
 </a>
 
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,mysql&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,git,linux,postman,docker&theme=dark&perline=10" />
 </a>
 
 <br/>
@@ -43,20 +41,20 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-### 📊 𝐒𝐲𝐬𝐭𝐞𝐦 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874018293ef16a1b026759.gif" width="28" style="vertical-align:middle" alt="holo" />
+### 📊 𝐆𝐨𝐝𝐊𝐮𝐧'𝐬 𝐌𝐞𝐭𝐫𝐢𝐜𝐬
 <div align="center">
-  <img src="https://godkun-stats-server.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars" height="150" alt="GitHub Stats" />
+  <img src="https://godkun-stats-server.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&custom_title=GodKun's%20System%20Metrics" height="150" alt="stats graph" />
   
-  <img src="https://godkun-stats-server.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://godkun-stats-server.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godkunn&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godkunn&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-### 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874018293ef16a1b026759.gif" width="28" style="vertical-align:middle" alt="holo" />
+### 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 | 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 | 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 | 𝐒𝐭𝐚𝐜𝐤 |
 | :--- | :--- | :--- |
@@ -71,8 +69,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Ayush-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-chaudharyy)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:AYUSH_24UEE054@ug.nita.ac.in)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0a192f&height=100&section=footer" width="100%" />
 
