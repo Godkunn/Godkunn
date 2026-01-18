@@ -45,30 +45,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true"
-    width="420"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true"
-    width="320"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-bgs.vercel.app/api?username=Godkunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-bgs.vercel.app/api/top-langs/?username=Godkunn&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" height="150" alt="languages graph" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godkunn&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Godkunn&theme=tokyonight&hide_border=true"
-    width="500"
-    alt="GitHub Streak"
-  />
-</div>
-
 
 ---
 
