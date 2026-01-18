@@ -19,7 +19,9 @@
 - 🎓 I’m a **4th Sem Electrical Engineering** student at **NIT Agartala**.
 - 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** and **CampusFix**.
 - 🧠 Deeply interested in **Generative AI**, **Digital Logic**, and **System Architecture**.
-- ⚡ **Fun fact:** I design systems like I'm building ships for the Grand Line.
+- ⚓ **Fun fact:** I design systems like I'm building ships for the Grand Line.
+
+> ⚡ **Directive:** *I design systems that think, learn, and evolve.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
