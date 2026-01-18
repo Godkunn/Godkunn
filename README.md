@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874018293ef16a1b026759.gif" width="100%" style="border-radius: 10px;" alt="Jarvis HUD" />
+<img src="https://i.pinimg.com/originals/b2/8d/65/b28d65a8eb0ba006d649938e55e0034a.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;" alt="System Boot" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=System+Initialized...;Subject:+Ayush+Chaudhary+(GodKun);Status:+4th+Sem+Electrical+Engineer;Mission:+Architecting+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=3000&color=00F2FF&center=true&vCenter=true&width=500&lines=...System+Online...;User:+Ayush+Chaudhary+(GodKun);Status:+Architect+of+Systems;Mission:+Building+Intelligence" alt="Typing SVG" />
 </a>
 
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Godkunn&style=flat-square&color=00f2ff" alt="visitor count" />
 
 </div>
