@@ -17,7 +17,7 @@
 
 ### 🧐 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 - 🎓 I’m a **4th Sem Electrical Engineering** student at **NIT Agartala**.
-- 🔭 Working on **[NeuroScan-AI-Security](https://github.com/Godkunn/NeuroScan-AI-Security)** and **CampusFix**.
+- 🔭 Working on **----** and **CampusFix**.
 - 🧠 Deeply interested in **Generative AI**, **Digital Logic**, and **System Architecture**.
 - ⚓ **Fun fact:** I design systems like I'm building ships for the Grand Line.
 
