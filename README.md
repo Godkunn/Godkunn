@@ -16,7 +16,7 @@
 </div>
 
 ### 🧐 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-- 🎓 I’m a **4th Sem Electrical Engineering** student at **NIT Agartala**.
+- 🎓 I’m a **PreFinal Year Electrical Engineering** student at **NIT Agartala**.
 - 🔭 Working on **----** and **CampusFix**.
 - 🧠 Deeply interested in **Generative AI**, **Digital Logic**, and **System Architecture**.
 - ⚓ **Fun fact:** I design systems like I'm building ships for the Grand Line.
